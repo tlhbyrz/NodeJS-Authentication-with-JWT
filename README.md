@@ -2,4 +2,4 @@
 # NodeJS-Authentication-with-JWT
 
 
-Jsonwebtoken,bcrpty gibi 3.part kutuphanelerle bir authentication apisi olusturdum.
+>Jsonwebtoken,bcrypt gibi 3.part kutuphanelerle bir authentication apisi olusturdum.
